@@ -18,7 +18,7 @@ A system that uses multiple AI agents (Planner, Writer, and Editor) to collabora
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Pranavharshans/CrewAI-MultiAgent.git>
 cd CrewAI-MultiAgent
 ```
 
