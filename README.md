@@ -44,7 +44,7 @@ OPENAI_MODEL_NAME=mistral-small
 
 Run the article generation script:
 ```bash
-python research_write_article.py
+multi-agents.py
 ```
 
 When prompted, enter the topic you want to write about. The system will:
