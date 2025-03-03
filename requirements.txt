@@ -1,0 +1,13 @@
+crewai==0.28.8 
+crewai_tools==0.1.6
+langchain_community==0.0.29
+
+
+
+
+
+OPENAI_API_KEY=your-mistral-api-key
+OPENAI_API_BASE=https://api.mistral.ai/v1
+OPENAI_MODEL_NAME="mistral-small"
+
+
